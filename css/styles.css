@@ -1,0 +1,23 @@
+img{
+  float: left;
+}
+.routine{
+  font-style: italic;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.column{
+  width: 350px;
+  float: right;
+}
+@media screen and (min-width:480px){
+  body{
+    background-color: skyblue;
+    color:crimson;
+  }
+
+
+}
