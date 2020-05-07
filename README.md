@@ -9,6 +9,7 @@ THis could be used to portray some of my skills to give people information about
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
+LeonDante-ctrl.github.io/portfolio-final
 The code used to write this is HTML and CSS
 ## Support and contact details
 Contact 0787861763 if there's any need for more information
